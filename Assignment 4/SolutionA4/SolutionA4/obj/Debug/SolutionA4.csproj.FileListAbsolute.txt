@@ -1,0 +1,5 @@
+C:\Users\Colin Gagich\Documents\GitHub\SE3X03-Assignments\Assignment 4\SolutionA4\SolutionA4\bin\Debug\SolutionA4.exe
+C:\Users\Colin Gagich\Documents\GitHub\SE3X03-Assignments\Assignment 4\SolutionA4\SolutionA4\bin\Debug\SolutionA4.pdb
+C:\Users\Colin Gagich\Documents\GitHub\SE3X03-Assignments\Assignment 4\SolutionA4\SolutionA4\obj\Debug\SolutionA4.csprojResolveAssemblyReference.cache
+C:\Users\Colin Gagich\Documents\GitHub\SE3X03-Assignments\Assignment 4\SolutionA4\SolutionA4\obj\Debug\SolutionA4.exe
+C:\Users\Colin Gagich\Documents\GitHub\SE3X03-Assignments\Assignment 4\SolutionA4\SolutionA4\obj\Debug\SolutionA4.pdb
