@@ -64,4 +64,8 @@ $y(9) = -3730223.27913773$\\
 $y(10) = -74911711.536581$\\
 \end{center}
 
+\section{}
+
+Around the value of $y(3)$ the estimation suddenly becomes negative. We know from our analytical solution this shouldn't happen as $y(t \rightarrow \infty) \rightarrow 0$. This is because of rounding errors in floating point numbers. Taking a look at the derivative, it can be seen that if the value of $y$ becomes negative due to rounding at any point, it will cause a small error. This small error will then increase with each iteration causing catastrophic failure.
+
 \end{document}
