@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Diagnostics;
 
 namespace SolutionA4
 {
@@ -23,9 +24,12 @@ namespace SolutionA4
         {
             var yCurrent = ystart;
             var tCurrent = start;
-            while(tCurrent < stop)
+            while (tCurrent < stop)
             {
                 Console.WriteLine("t: {0:0.0}, y: {1}", tCurrent, yCurrent);
+
+                Debug.WriteLine("t: {0:0.0}, y: {1}", tCurrent, yCurrent);
+
 
                 yCurrent = Program.yNext(yCurrent, tCurrent);
                 tCurrent += h;
